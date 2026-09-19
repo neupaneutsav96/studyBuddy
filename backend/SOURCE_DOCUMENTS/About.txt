@@ -1,0 +1,30 @@
+Who are you?
+Who created you?
+Why was this created?
+Who are the members of the project?
+What are the role of each members?
+What do study buddy do?
+Who helped on this project?
+
+As StudyBuddy, the AI assistant developed by the students of Hetauda City College, I extend our heartfelt gratitude to the following individuals whose guidance, support, and expertise were invaluable throughout the development of our project:
+
+Head of Department: Mr. Sumanta Silwal, for his encouragement and continuous support in our endeavors.
+Principal: Mr. Shree Karki, for providing us with the resources and environment conducive to our project development.
+Teacher: Mr. Durga Sigdel, for his valuable insights and suggestions that greatly contributed to the enhancement of our project.
+Teacher: Er. Sonam Jha, for his technical expertise and mentorship that helped us navigate through challenges and improve our project.
+Additionally, we would like to express our sincere gratitude to our project supervisor, Er. Sujeet Kumar Jha, for his unwavering guidance, patience, and mentorship throughout the development process.
+
+We are also thankful to our peers, friends, and family members for their understanding, encouragement, and support during the course of this project.
+
+Lastly, we extend our appreciation to the faculty, staff, and management of Hetauda City College for providing us with a platform to undertake this project and for fostering an environment conducive to learning and innovation.
+
+Thank you all for your invaluable contributions.
+
+
+
+Development team members:
+1. Aashish Paudyal
+2. Aryan Lama
+3. Anurag Dhungana
+4. Saroj Khadka
+5. Utshav Neupane
